@@ -1,12 +1,4 @@
-//BERR 2243 DATABASE AND CLOUD SYSTEM ASSIGNMENT
-//Group i
-//Group Members: DEVELEPOR
-//              1)NUR MAHFUZAH BINTI BUN YAMIN B022210169
-//              2)HARTINE BINTI MOHAMMAD RIDZUAN GANESAN B022210196
-//              3)NASUHA NUR SYUHADA BT ZAINUDIN B022210260
-//              4)MUGHAMMAD ZIKRI BIN C.BAHARUDIN B022210173
-//
-//
+//Aasignment IS
 
 // Import necessary modules
 const express = require('express'); // Import Express framework
